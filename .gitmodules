@@ -13,3 +13,6 @@
 [submodule "meta-boot2qt"]
 	path = meta-boot2qt
 	url = git://code.qt.io/yocto/meta-boot2qt
+[submodule "meta-python2"]
+	path = meta-python2
+	url = git://git.openembedded.org/meta-python2
