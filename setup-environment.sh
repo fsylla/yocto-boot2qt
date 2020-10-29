@@ -57,7 +57,7 @@ if [ -z "$MACHINE" ]; then
 fi
 
 BUILDDIRECTORY=${BUILDDIRECTORY:-build-${MACHINE}}
-TEMPLATES=meta-boot2qt/meta-boot2qt-distro/conf
+TEMPLATES=templates
 
 if [ ! -e ${PWD}/${BUILDDIRECTORY} ]; then
   case ${MACHINE} in
