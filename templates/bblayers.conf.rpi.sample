@@ -44,7 +44,6 @@ BBLAYERS ?= " \
   ${BSPDIR}/meta-openembedded/meta-networking \
   ${BSPDIR}/meta-openembedded/meta-initramfs \
   ${BSPDIR}/meta-openembedded/meta-multimedia \
-  ${BSPDIR}/meta-python2 \
   ${BSPDIR}/meta-boot2qt/meta-boot2qt \
   ${BSPDIR}/meta-boot2qt/meta-boot2qt-distro \
   ${BSPDIR}/meta-qt5 \
